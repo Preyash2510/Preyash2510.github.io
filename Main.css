@@ -4,6 +4,7 @@ body {
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
 	padding: 0px;
 	margin: 0px;
+	overflow: hidden;
 }
 #section1 {
 	height: 100vh;
